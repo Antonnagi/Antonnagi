@@ -1,12 +1,15 @@
 <!-- 🎯 Anton Nagy Kamal | Dark Neon QA Portfolio -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Antonnagi/Antonnagi/refs/heads/main/ChatGPT%20Image%20Oct%2020%2C%202025%2C%2001_14_04%20AM.png"
-       alt="Anton Nagy Kamal Banner"
-       width="100%"
-       height="230px"
-       style="border-radius: 15px; box-shadow: 0 0 30px #00ff88;">
+  <a href="https://github.com/Antonnagi">
+    <img src="https://raw.githubusercontent.com/Antonnagi/Antonnagi/refs/heads/main/ChatGPT%20Image%20Oct%2020%2C%202025%2C%2001_14_04%20AM.png"
+         alt="Anton Nagy Kamal Banner"
+         width="100%"
+         height="280px"
+         style="border-radius: 15px; box-shadow: 0 0 25px #00ff88;"/>
+  </a>
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Anton+Nagy+Kamal!;Junior+Software+Tester+💻;Automation+%26+Continuous+Learning+💚" alt="Typing SVG" />
@@ -75,7 +78,10 @@
     <img src="https://raw.githubusercontent.com/Antonnagi/Antonnagi/refs/heads/main/ChatGPT%20Image%20Oct%2020%2C%202025%2C%2001_14_04%20AM.png"
          alt="Anton Nagy Kamal Banner"
          width="100%"
-         height="230px"
-         style="border-radius: 15px; box-shadow: 0 0 20px #00ff88;"/>
+         height="280px"
+         style="border-radius: 15px; box-shadow: 0 0 25px #00ff88;"/>
+  </a>
+</p>
+
   </a>
 </p>

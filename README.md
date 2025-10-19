@@ -70,10 +70,12 @@
 ⭐️ Thanks for visiting — if you find my projects interesting, don’t forget to star them!
 </p>
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 25px #00ff88;
-    transition: all 0.3s ease-in-out;
-  }
-</style>
+<p align="center">
+  <a href="https://github.com/Antonnagi">
+    <img src="https://raw.githubusercontent.com/Antonnagi/Antonnagi/refs/heads/main/ChatGPT%20Image%20Oct%2020%2C%202025%2C%2001_14_04%20AM.png"
+         alt="Anton Nagy Kamal Banner"
+         width="100%"
+         height="230px"
+         style="border-radius: 15px; box-shadow: 0 0 20px #00ff88;"/>
+  </a>
+</p>
